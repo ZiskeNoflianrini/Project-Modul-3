@@ -1,7 +1,7 @@
 # Project-Modul-3
 
 
-1. Business Problem Understanding
+1. Business Problem Understanding <br>
    Bisnis e-commerce cenderung tidak konstan (berubah-ubah) sehingga menyebabkan problem yang serius yaitu customer loss. Customer loss/ Customer churn pada ecommerce diartikan customer yang berhenti berbelanja di applikasi ecommerce ini. Studi menunjukkan bahwa cost untuk menambah customer baru lebih tinggi dibandingkan dengan mempertahankan customer lama. Maka dari itu, dibuat model machine learning untuk memprediksi customer churn ini agar perusahaan dapat melakukan tindakan preventif kepada customer yang diprediksi akan churn.
 
 2. Data Understanding
